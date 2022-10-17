@@ -1,2 +1,2 @@
-# sintautai
+# Sintautai
 Skirta sintautai.lt kodui
