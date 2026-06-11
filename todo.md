@@ -1,2 +1,0 @@
-bendra informacija
-nuotraukos
